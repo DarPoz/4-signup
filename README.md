@@ -18,8 +18,10 @@ Design: [Sign-up](https://cdn.discordapp.com/attachments/850245533838868480/8502
 - Github pages
 - absolute center (horizontal and vert)
 - desktop only
-- muti pages
+- form
+- muti pages (sign-in, forgot password, has to be linked  between each other (in circle))
 - css blur
+
 
 ## Authors
 
